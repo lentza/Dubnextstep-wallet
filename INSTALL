@@ -1,0 +1,9 @@
+Building DubNextStep
+
+See doc/readme-qt.rst for instructions on building DubNextStep QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DubNextStep.
+
+See doc/build-*.txt for instructions on building DubNextStepd,
+the intended-for-services, no-graphical-interface, reference
+implementation of DubNextStep.

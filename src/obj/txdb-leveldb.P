@@ -1,0 +1,30 @@
+obj/txdb-leveldb.o: txdb-leveldb.cpp \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/env.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/status.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/slice.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/cache.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/filter_policy.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/helpers/memenv/memenv.h \
+ kernel.h main.h bignum.h util.h uint256.h netbase.h serialize.h \
+ allocators.h version.h clientversion.h compat.h sync.h net.h mruset.h \
+ protocol.h addrman.h hash.h script.h keystore.h crypter.h key.h \
+ scrypt_mine.h checkpoints.h txdb.h txdb-leveldb.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/db.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/iterator.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/options.h \
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/write_batch.h
+txdb-leveldb.cpp :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/env.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/status.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/slice.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/cache.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/filter_policy.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/helpers/memenv/memenv.h :
+ kernel.h main.h bignum.h util.h uint256.h netbase.h serialize.h :
+ allocators.h version.h clientversion.h compat.h sync.h net.h mruset.h :
+ protocol.h addrman.h hash.h script.h keystore.h crypter.h key.h :
+ scrypt_mine.h checkpoints.h txdb.h txdb-leveldb.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/db.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/iterator.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/options.h :
+ /home/thelentzfamily/Downloads/Dubnextstep/src/leveldb/include/leveldb/write_batch.h :

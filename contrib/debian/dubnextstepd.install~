@@ -1,0 +1,2 @@
+debian/bin/dubnextstepd usr/bin
+src/dubnextstepd usr/lib/dubnextstep
