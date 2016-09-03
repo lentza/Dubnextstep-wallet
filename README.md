@@ -1,3 +1,4 @@
+# Dubnextstep-wallet
 Dubnextstep is a community owned and operated pure PoS coin. 
 Send your coins to your wallet and earn high yielding interest for saving your coins while securing the Dubnextstep network. 
 
@@ -26,5 +27,7 @@ The following stats are based on the most current information as of July 30th, 2
 ~Current minting block reward rate is 20% annually
 
 ~Keep in mind, minters also get an additional transaction fees bonus!
-# Dubnextstep-wallet
-# Dubnextstep-wallet
+
+Upcoming projects: 
+Website: 
+eclecticshare.net- musicians and creative geniuses express their art online and users tip for listening and/or promote positive feedback on their expressions
