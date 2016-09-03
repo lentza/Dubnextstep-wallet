@@ -20,11 +20,11 @@ Dubnextstep Specifications
 
 Dubnextstep: Minting Statistics
 
-The following stats are based on the most current information as of July 30th, 2016
+The following stats are based on the most current information as of September 2nd, 2016
 
 ~Total coins in existence currently 40000
 
-~Current minting block reward rate is 20% annually
+~Current minting block reward rate is 15% annually
 
 ~Keep in mind, minters also get an additional transaction fees bonus!
 
